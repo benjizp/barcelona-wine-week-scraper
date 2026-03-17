@@ -37,7 +37,7 @@ playwright install webkit
 
 Run the script directly:
 ```
-python bww_scraper.py
+python barcelona_wine_week_FINAL.py
 ```
 
 The script will print progress as it scrapes each exhibitor and save the 
